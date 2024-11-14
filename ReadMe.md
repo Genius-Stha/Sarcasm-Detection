@@ -21,11 +21,14 @@ Just a sarcasm detection system that detects the sarcasm using GRU(Gated recurre
    - [ Do not run this part ]
 ![Image](img/optuna.png)
 
-3. Using best possible parameters
+2. Using best possible parameters
+
 ![Image](img/best_parameter.png)
 
 4. Accuracy of the model
+
 ![Image](img/accuracy_score.png)
 
 5. Prediction using the model
+
 ![Image](img/prediction.png)
