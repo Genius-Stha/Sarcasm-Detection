@@ -25,10 +25,10 @@ Just a sarcasm detection system that detects the sarcasm using GRU(Gated recurre
 
 ![Image](img/best_parameter.png)
 
-4. Accuracy of the model
+3. Accuracy of the model
 
 ![Image](img/accuracy_score.png)
 
-5. Prediction using the model
+4. Prediction using the model
 
 ![Image](img/prediction.png)
